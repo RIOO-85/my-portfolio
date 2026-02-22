@@ -291,17 +291,18 @@ section {
 
 .about-content {
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: auto 1fr;
     gap: 4rem;
     margin-top: 3rem;
+    align-items: start;
+    padding-left: 3rem;
 }
 .profile-picture {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     object-fit: cover;
     border: 5px solid var(--accent);
-    margin-left: 5rem;
     display: block;
 }
 
