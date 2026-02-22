@@ -155,18 +155,13 @@ a {
 .hero-title {
     font-size: 3.5rem;
     margin-bottom: 1.5rem;
-    color: var(--charcoal);
-    animation: fadeInUp 1s ease-out;
-}
-
-.hero-title {
-    font-size: 3.5rem;
-    margin-bottom: 1.5rem;
     animation: fadeInUp 1s ease-out;
     background: linear-gradient(135deg, #C3A29E 0%, #DB8A74 50%, #77BFA3 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+
+   ]
 
 .hero-subtitle {
     font-size: 1.4rem;
