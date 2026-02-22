@@ -324,26 +324,25 @@ section {
 
 .stat-item {
     flex: 1;
-    background-color: rgba(204, 197, 185, 0.3);
+    background: linear-gradient(135deg, #A491D3 0%, #9AC6C5 100%);
     padding: 2rem;
-    border-radius: 12px;
+    border-radius: 50px;
     text-align: center;
     border-left: 4px solid var(--accent);
 }
-
 .stat-number {
     display: block;
     font-family: var(--font-headline);
     font-size: 2.5rem;
     font-weight: 700;
-    color: var(--accent);
+     color: #000000;
     margin-bottom: 0.5rem;
 }
 
 .stat-label {
     display: block;
     font-size: 0.95rem;
-    color: var(--dark-gray);
+    color: #000000;
     font-weight: 500;
 }
 
