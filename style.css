@@ -144,7 +144,7 @@ a {
     align-items: center;
     text-align: center;
     padding: 8rem 2rem 4rem;
-    background: linear-gradient(135deg, var(--cream) 0%, var(--beige) 100%);
+    background: radial-gradient(ellipse at top left, var(--beige) 0%, var(--cream) 50%, var(--beige) 100%);
     position: relative;
 }
 
