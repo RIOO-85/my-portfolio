@@ -161,7 +161,17 @@ a {
     margin-bottom: 3rem;
     animation: fadeInUp 1s ease-out 0.2s backwards;
 }
+.hero-btn {
+    background-color: transparent;
+    color: var(--charcoal);
+    border-color: var(--charcoal);
+}
 
+.hero-btn:hover {
+    background-color: #5B507A;
+    color: var(--cream);
+    border-color: #5B507A;
+}
 .hero-cta {
     display: flex;
     gap: 1.5rem;
