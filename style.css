@@ -475,6 +475,11 @@ section {
     justify-content: center;
     border-bottom: 2px solid var(--beige);
 }
+portfolio-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 
 .project-placeholder {
     font-size: 1.2rem;
