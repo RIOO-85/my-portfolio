@@ -304,6 +304,7 @@ section {
     object-fit: cover;
     object-position: center top;
     display: block;
+   margin-top: 3rem;
 }
 
 .about-text .lead {
