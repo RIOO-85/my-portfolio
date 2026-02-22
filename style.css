@@ -144,9 +144,9 @@ a {
     align-items: center;
     text-align: center;
     padding: 8rem 2rem 4rem;
-    background: radial-gradient(circle at 20% 50%, #5D2A42 0%, transparent 50%),
-    radial-gradient(circle at 80% 20%, #294C60 0%, transparent 40%),
-    linear-gradient(135deg, var(--cream) 0%, var(--beige) 100%);
+    background: radial-gradient(circle at 20% 50%, #5F747033 0%, transparent 50%),
+            radial-gradient(circle at 80% 20%, #A4AF6933 0%, transparent 40%),
+            linear-gradient(135deg, var(--cream) 0%, var(--beige) 100%);
     position: relative;
 }
 
