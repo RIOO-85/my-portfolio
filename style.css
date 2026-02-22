@@ -319,6 +319,9 @@ section {
     margin-bottom: 1.5rem;
     font-size: 1.05rem;
 }
+.resume-btn {
+    text-align: center;
+}
 
 .about-stats {
     display: flex;
