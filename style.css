@@ -301,6 +301,8 @@ section {
     border-radius: 50%;
     object-fit: cover;
     border: 5px solid var(--accent);
+    margin-left: 3rem;
+    display: block;
 }
 
 .about-text .lead {
