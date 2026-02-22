@@ -296,8 +296,8 @@ section {
     margin-top: 3rem;
 }
 .profile-picture {
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     object-fit: cover;
     border: 5px solid var(--accent);
