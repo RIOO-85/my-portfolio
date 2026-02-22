@@ -8,7 +8,7 @@
     --dark-gray: #403d39;
     --charcoal: #252422;
     --accent: #eb5e28;
-    --font-headline: 'Lora', serif;
+    --font-headline: 'Lato', sans-serif;
     --font-body: 'Inter', sans-serif;
     --section-padding: 5rem;
     --container-width: 1200px;
@@ -272,6 +272,7 @@ section {
 }
 
 .about-title {
+   font-size: 4.5rem;
     background: linear-gradient(135deg, #C3A29E 0%, #DB8A74 50%, #77BFA3 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -289,7 +290,7 @@ section {
 .profile-picture {
     width: 350px;
     height: 500px;
-    border-radius: 50% 50% 0 0;
+    border-radius: 50% 0;
     object-fit: cover;
     object-position: center top;
     display: block;
@@ -466,7 +467,7 @@ section {
 }
 
 .portfolio-image img {
-    width: 100%;
+    width: 250px;
     height: 250px;
     object-fit: cover;
     object-position: top;
