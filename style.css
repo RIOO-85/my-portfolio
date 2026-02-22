@@ -300,7 +300,7 @@ section {
 .profile-picture {
     width: 300px;
     height: 480px;
-    border-radius: 50% 50% 0 0;
+    border-radius: 50% 0%;
     object-fit: cover;
     object-position: center top;
     display: block;
