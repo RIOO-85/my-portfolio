@@ -297,6 +297,12 @@ section {
 .about-section {
     background-color: var(--cream);
 }
+   .about-title {
+    background: linear-gradient(135deg, #C3A29E 0%, #DB8A74 50%, #77BFA3 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
 
 .about-content {
     display: grid;
