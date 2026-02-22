@@ -291,9 +291,10 @@ section {
 
 .about-content {
     display: grid;
-    grid-template-columns: 2fr 1fr;
-    gap: 4rem;
+    grid-template-columns: 1fr 2fr;
+    gap: 2rem;
     margin-top: 3rem;
+    align-items: start;
 }
 
 .profile-picture {
@@ -320,8 +321,9 @@ section {
 
 .about-stats {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     gap: 2rem;
+    margin-top: 2rem;
 }
 
 .stat-item {
