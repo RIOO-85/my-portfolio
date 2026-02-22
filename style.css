@@ -295,6 +295,13 @@ section {
     gap: 4rem;
     margin-top: 3rem;
 }
+.profile-picture {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid var(--accent);
+}
 
 .about-text .lead {
     font-size: 1.35rem;
