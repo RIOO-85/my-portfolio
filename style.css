@@ -476,7 +476,7 @@ section {
     border-bottom: 2px solid var(--beige);
 }
 .portfolio-image img {
-    width: 100%;
+    width: 350px;
     height: 250px;
     object-fit: cover;
    object-position: top;
