@@ -159,7 +159,7 @@ a {
 
 .hero-content, .scroll-indicator {
     position: relative;
-    z-index: 3;
+    z-index: 1;
 }
 
 .hero-content {
@@ -421,7 +421,7 @@ section {
 
 .expertise-section .container {
     position: relative;
-    z-index: 3;
+    z-index: 1;
 }
 
 .expertise-grid {
