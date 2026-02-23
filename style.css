@@ -154,7 +154,7 @@ a {
     background-size: cover;
     background-position: top;
     opacity: 0.5;
-    z-index: 2;
+    z-index: 0;
 }
 
 .hero-content, .scroll-indicator {
@@ -415,8 +415,8 @@ section {
     background-image: url('images/hero-background.jpeg');
     background-size: cover;
     background-position: top;
-    opacity: 0.5;
-    z-index: 2;
+    opacity: 0.3;
+    z-index: 0;
 }
 
 .expertise-section .container {
