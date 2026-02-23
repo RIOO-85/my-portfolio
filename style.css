@@ -615,7 +615,7 @@ section {
    =========================== */
 
 .contact-section {
-    background-color: var(--beige);
+    background-color: #ffffff;
 }
 
 .contact-content {
@@ -649,7 +649,7 @@ section {
 }
 
 .contact-method a {
-    color: var(--accent);
+    color: #000000;
     transition: opacity 0.3s;
 }
 
@@ -711,6 +711,14 @@ section {
 .contact-form button {
     width: 100%;
     border: none;
+    background-color: #5B507A;
+    color: #ffffff;
+}
+
+.contact-form button:hover {
+    background-color: transparent;
+    color: #5B507A;
+    border: 2px solid #5B507A;
 }
 
 /* ===========================
