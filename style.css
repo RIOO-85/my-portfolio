@@ -415,13 +415,13 @@ section {
     background-image: url('images/hero-background.jpeg');
     background-size: cover;
     background-position: top;
-    opacity: 0.3;
-    z-index: 0;
+    opacity: 0.5;
+    z-index: 1;
 }
 
 .expertise-section .container {
     position: relative;
-    z-index: 1;
+    z-index: 2;
 }
 
 .expertise-grid {
