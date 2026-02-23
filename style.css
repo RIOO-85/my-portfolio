@@ -555,7 +555,7 @@ section {
 
 .portfolio-image {
     height: 250px;
-    background: linear-gradient(135deg, var(--beige) 0%, var(--cream) 100%);
+    background: #ffffff;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -588,7 +588,7 @@ section {
 
 .project-type {
     font-size: 0.9rem;
-    color: var(--accent);
+    color: #5B507A;
     font-weight: 600;
     margin-bottom: 1rem;
     text-transform: uppercase;
