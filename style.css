@@ -153,7 +153,7 @@ a {
     background-image: url('images/hero-background.jpeg');
     background-size: cover;
     background-position: top;
-    opacity: 0.5;
+    opacity: 0.3;
     z-index: 0;
 }
 
